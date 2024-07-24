@@ -7,7 +7,7 @@
 
 
 ======================
- Invenio Framework v3
+ Invenio Framework v3 ------- (CT)
 ======================
 
 Warning
